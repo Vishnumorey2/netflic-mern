@@ -1,4 +1,4 @@
-import { ENV_VAR } from "../Config/enVar.js";
+import { ENV_VAR } from "../config/enVar.js";
 import jwt from "jsonwebtoken";
 import { User } from "../models/user.models.js";
 

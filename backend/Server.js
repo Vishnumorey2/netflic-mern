@@ -9,7 +9,7 @@ import cookieParser from "cookie-parser";
 import protectRoute from "./middleware/protectRoute.js";
 import cors from "cors";
 import path from "path";
-import { ENV_VAR } from "./Config/enVar.js";
+import { ENV_VAR } from "./Config/enVar.js"
 
 
 const app = express();
